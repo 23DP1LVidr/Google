@@ -1,0 +1,68 @@
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    padding: 10px 0 10px 0;
+}
+li{
+    font-family: "Arial", sans-serif;
+    float: right;
+    margin: 10px 10px 10px 10px ;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    font-family: 'Product Sans',sans-serif;
+    font-size:10vh;
+    text-align: center;
+}
+
+input{
+    height:45px;
+    width:100%;
+    font-size:16px;
+}
+.img{
+    height:20px;
+    padding: 1.5vh 2vh 0 0;
+    float: right;
+}
+
+.magnifying_glass{
+    height: 20px;
+    float: left;
+    padding: 1.5vh 1vh 1vh 2vh;
+}
+
+.bar{
+    margin:0 auto;
+    width:40%;
+    border-radius: 30px;
+    border:1px solid #dcdcdc;
+  }
+.searchbar{
+    height:45px;
+    border:none;
+    width:80%;
+    font-size:16px;
+    outline: none;
+      
+}
+
+
+
+.red{
+    color: rgb(252, 78, 78);
+}
+.blue{
+    color: rgb(113, 123, 255);
+}
+.yellow{
+    color: rgb(247, 203, 59);
+}
+.green{
+    color: rgb(16, 170, 16);
+}
